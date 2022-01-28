@@ -2,4 +2,3 @@ This is the background
 
 This is another commit !
 
-This is a test commit
